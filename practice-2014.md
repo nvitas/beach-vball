@@ -4,9 +4,9 @@
  
  
 ## <a name="06/26"></a>Thursday June 26
-Technical aspect: setting
+Technical aspect: [setting](https://github.com/nvitas/beach-vball/blob/master/setting.md)
 
-30m: 02 [link to 02](https://github.com/nvitas/beach-vball/blob/master/02.md)
+30m: [beach 02](https://github.com/nvitas/beach-vball/blob/master/02.md)
 
 1hr : setting drills - technique:	[https://www.youtube.com/watch?v=eHPzTPxc-7Q](https://www.youtube.com/watch?v=eHPzTPxc-7Q)
 
