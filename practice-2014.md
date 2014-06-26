@@ -8,7 +8,7 @@ Technical aspect: [setting](https://github.com/nvitas/beach-vball/blob/master/se
 
 30m: [beach 02](https://github.com/nvitas/beach-vball/blob/master/02.md)
 
-1hr : setting drills - technique:	[https://www.youtube.com/watch?v=eHPzTPxc-7Q](https://www.youtube.com/watch?v=eHPzTPxc-7Q)
+1hr : setting drills - setting technique:	[https://www.youtube.com/watch?v=eHPzTPxc-7Q](https://www.youtube.com/watch?v=eHPzTPxc-7Q)
 
 1. 4.3	HIGH REP SETTING FOR LARGE GROUPS	[https://www.youtube.com/watch?v=uPZTuzhnQrM](https://www.youtube.com/watch?v=uPZTuzhnQrM) 	
 2. 4.4	HIGH REP SETTING - TRIANGLE	        [https://www.youtube.com/watch?v=diMzC6yQtF0](https://www.youtube.com/watch?v=diMzC6yQtF0)		
@@ -16,57 +16,3 @@ Technical aspect: [setting](https://github.com/nvitas/beach-vball/blob/master/se
 4. 4.8	BLOCK AND TRANSITION SET	        [https://www.youtube.com/watch?v=4tVUI2lYBaI](https://www.youtube.com/watch?v=4tVUI2lYBaI)		
 
 1hr: games
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-test
-

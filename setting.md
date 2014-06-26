@@ -1,4 +1,4 @@
-# Setting
+# Beach Setting
 
 - set w/predictable and consistent trajectory with a similar height /arc is easier to hit.
 - obligation of the setter to help partner w/attack by calling open area of the court
