@@ -1,12 +1,12 @@
 # Practice Plans (Summer 2014)
 
-### Thursday June 26 (setting)
+### [Thursday June 26 (setting)](#06/26)
  
  
-## Thursday June 26
+## <a name="06/26"></a>Thursday June 26
 Technical aspect: setting
 
-30m: 02
+30m: 02 [link to 02](https://github.com/nvitas/beach-vball/blob/master/02.md)
 
 1hr : setting drills - technique:	[https://www.youtube.com/watch?v=eHPzTPxc-7Q](https://www.youtube.com/watch?v=eHPzTPxc-7Q)
 
@@ -16,3 +16,57 @@ Technical aspect: setting
 4. 4.8	BLOCK AND TRANSITION SET	        [https://www.youtube.com/watch?v=4tVUI2lYBaI](https://www.youtube.com/watch?v=4tVUI2lYBaI)		
 
 1hr: games
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+test
+
