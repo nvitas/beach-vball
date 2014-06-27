@@ -16,3 +16,7 @@ Technical aspect: [setting](https://github.com/nvitas/beach-vball/blob/master/se
 4. 4.8	BLOCK AND TRANSITION SET	        [https://www.youtube.com/watch?v=4tVUI2lYBaI](https://www.youtube.com/watch?v=4tVUI2lYBaI)		
 
 1hr: games
+
+Present: Mark, Ryan, TD, TW, TK, Griff, Liam, Luka
+
+**Need to work on:** more aggressive on offense, too many safe shots to the middle of the court, need to start hitting the baby corners 
