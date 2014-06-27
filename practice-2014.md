@@ -1,3 +1,5 @@
+>The most effective teams  are those who disguise their offensive and defensive patterns well, as well as execute a given skill at the last moment therefore giving their opponents minimal amount of time to react.
+
 # Practice Plans (Summer 2014)
 
 ### [Thursday June 26 (setting)](#06/26)
