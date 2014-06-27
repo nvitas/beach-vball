@@ -1,5 +1,3 @@
->The most effective teams  are those who disguise their offensive and defensive patterns well, as well as execute a given skill at the last moment therefore giving their opponents minimal amount of time to react.
-
 ##### [Summer 2014 Practices](https://github.com/nvitas/beach-vball/blob/master/practice-2014.md) 
 ##### [The Beach 02](https://github.com/nvitas/beach-vball/blob/master/02.md)
 ##### [Defense](https://github.com/nvitas/beach-vball/blob/master/defense.md)
@@ -7,6 +5,8 @@
 ##### [Passing](https://github.com/nvitas/beach-vball/blob/master/passing.md)
 ##### [Setting](https://github.com/nvitas/beach-vball/blob/master/setting.md)
 ##### [Blocking](https://github.com/nvitas/beach-vball/blob/master/blocking.md)
+
+>The most effective teams  are those who disguise their offensive and defensive patterns well, as well as execute a given skill at the last moment therefore giving their opponents minimal amount of time to react.
 
 # Practice Plans (Summer 2014)
 
