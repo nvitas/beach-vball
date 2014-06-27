@@ -1,3 +1,11 @@
+##### [Summer 2014 Practices](https://github.com/nvitas/beach-vball/blob/master/practice-2014.md) 
+##### [The Beach 02](https://github.com/nvitas/beach-vball/blob/master/02.md)
+##### [Defense](https://github.com/nvitas/beach-vball/blob/master/defense.md)
+##### [Serving](https://github.com/nvitas/beach-vball/blob/master/serving.md)
+##### [Passing](https://github.com/nvitas/beach-vball/blob/master/passing.md)
+##### [Setting](https://github.com/nvitas/beach-vball/blob/master/setting.md)
+##### [Blocking](https://github.com/nvitas/beach-vball/blob/master/blocking.md)
+
 # Passing
 ## Triangle Theory
 moving triangle theory of passing : ball should be passed to a position forward and slightly towards the middle of the court. If however the ball is passed from the middle of the court the ball should be directed in a straight line towards the net
