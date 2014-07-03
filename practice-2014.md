@@ -10,9 +10,28 @@
 
 # Practice Plans (Summer 2014)
 
-### [Thursday June 26 (setting)](#06/26)
+* [Thursday July 3 (defence)](#07/03)
+* [Thursday June 26 (setting)](#06/26)
  
  
+## <a name="07/03"></a>Thursday July 3
+Goal: be more aggressive on offense (hit baby corners), learn to dig balls with one hand 
+
+30m: [beach 02](https://github.com/nvitas/beach-vball/blob/master/02.md)
+
+1hr : defense/digging drills
+
+1.	3.12 ONE ARM PASSING				[https://www.youtube.com/watch?v=VxoPxA_Dh9U](https://www.youtube.com/watch?v=VxoPxA_Dh9U)
+2.	7.1  KNEELING ONE ARM DIG TRAINING	[https://www.youtube.com/watch?v=-_gPJvw-070](https://www.youtube.com/watch?v=-_gPJvw-070)
+3.	7.17 ZIG-ZAG ONE ARM DIG			[https://www.youtube.com/watch?v=aNFRFQw4i2M](https://www.youtube.com/watch?v=aNFRFQw4i2M)
+4.	7.16 ONE ARM DIG					[https://www.youtube.com/watch?v=RuKCYlg8l6Y](https://www.youtube.com/watch?v=RuKCYlg8l6Y)
+
+1hr: games
+
+Present: Ryan, TD, TW, TK, Griff, Liam(?), Luka, Matt, Cayley - (9)
+
+
+
 ## <a name="06/26"></a>Thursday June 26
 Technical aspect: [setting](https://github.com/nvitas/beach-vball/blob/master/setting.md)
 
@@ -27,6 +46,6 @@ Technical aspect: [setting](https://github.com/nvitas/beach-vball/blob/master/se
 
 1hr: games
 
-Present: Mark, Ryan, TD, TW, TK, Griff, Liam, Luka
+Present: Mark, Ryan, TD, TW, TK, Griff, Liam, Luka - (8)
 
 **Need to work on:** more aggressive on offense, too many safe shots to the middle of the court, need to start hitting the baby corners 
