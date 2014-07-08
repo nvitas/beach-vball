@@ -23,16 +23,12 @@ Goal: understand effective attacking angles, attacking on 2, being aggressive on
 Technique videos:
 
 1. [arm position when attacking (video)] (https://www.youtube.com/watch?v=gC-KZlbWaHw)
-
 2. [arm swing using body torque (video)] (https://www.youtube.com/watch?v=7gF-jVYWmSI)
-
 3. [line shot approach: body & arm position (video)] (https://www.youtube.com/watch?v=tOmX0pSjpMQ)
 
 
 30m: [beach 02](https://github.com/nvitas/beach-vball/blob/master/02.md)
-
 1hr: attacking technique w/ effective angles
-
 1hr: games
 
 Present: Ryan, TD, TW, TK, Liam, Chris, Cayley (7)
