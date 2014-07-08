@@ -28,7 +28,9 @@ Technique videos:
 
 
 30m: [beach 02](https://github.com/nvitas/beach-vball/blob/master/02.md)
+
 1hr: attacking technique w/ effective angles
+
 1hr: games
 
 Present: Ryan, TD, TW, TK, Liam, Chris, Cayley (7)
