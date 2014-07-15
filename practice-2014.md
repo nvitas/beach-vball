@@ -1,12 +1,6 @@
-##### [Summer 2014 Practices](https://github.com/nvitas/beach-vball/blob/master/practice-2014.md) 
-##### [The Beach 02](https://github.com/nvitas/beach-vball/blob/master/02.md)
-##### [Defense](https://github.com/nvitas/beach-vball/blob/master/defense.md)
-##### [Serving](https://github.com/nvitas/beach-vball/blob/master/serving.md)
-##### [Passing](https://github.com/nvitas/beach-vball/blob/master/passing.md)
-##### [Setting](https://github.com/nvitas/beach-vball/blob/master/setting.md)
-##### [Blocking](https://github.com/nvitas/beach-vball/blob/master/blocking.md)
+##### [Table of Contents](https://github.com/nvitas/beach-vball/blob/master/index.md)
 
->The most effective teams are those who disguise their offensive and defensive patterns well, as well as execute a given skill at the last moment therefore giving their opponents minimal amount of time to react.
+>The most effective teams are those who disguise their offensive and defensive patterns well, as well as execute a given skill at the last moment giving their opponents minimal amount of time to react.
 
 # Practice Plans (Summer 2014)
 
@@ -21,10 +15,15 @@
 ## <a name="07/04"></a> Tuesday July 15 (serving/attacking angles)
 Goal: understand effective attacking angles, attacking on 2, being aggressive on the attack and avoiding the middle of the court when attacking
 
-30m: [beach 02](https://github.com/nvitas/beach-vball/blob/master/02.md)
-30m: Serving angles, attacking angle drill
-30m: attacking technique w/ effective angles + attacking on 2
-1hr: games
+Technical: 
+- [angles used when serving](https://github.com/nvitas/beach-vball/blob/master/img/serving-angles.JPG)
+- [angles used when attacking](https://github.com/nvitas/beach-vball/blob/master/img/attacking-angles.JPG)
+
+* 15m: [beach 02](https://github.com/nvitas/beach-vball/blob/master/02.md)
+* 15m: [Serving angles](https://github.com/nvitas/beach-vball/blob/master/img/serve-angle-drill.JPG)
+* 30m: [attacking angle drill](https://github.com/nvitas/beach-vball/blob/master/img/serve-attack-angle-drill.JPG)
+* 30m: [attacking technique w/ effective angles + attacking on 2](https://github.com/nvitas/beach-vball/blob/master/img/attacking-drills.JPG)
+* 1hr: games
 
 Present Tues:  TD, TW, TK, Liam, Mark, Chris, Cayley (8)
 
