@@ -10,14 +10,25 @@
 
 # Practice Plans (Summer 2014)
 
-* [Tuesday July 8 (attacking angles)](#07/08)
+* [Tue July 15/10 (attacking on 2 + attack/serve angles)](#07/15)
+* [Tue/Thu July 8/10 (attacking angles)](#07/08)
 * [Sat/Sun July 6/7 - U18/U16 Tournaments in Hamilton](#hamilton-tournament)
 * [Friday July 4 (ball control)](#07/04)
 * [Thursday July 3 (defence)](#07/03)
 * [Thursday June 26 (setting)](#06/26)
  
 
-## <a name="07/04"></a> Tuesday July 8 (attacking angles)
+## <a name="07/04"></a> Tuesday July 15 (serving/attacking angles)
+Goal: understand effective attacking angles, attacking on 2, being aggressive on the attack and avoiding the middle of the court when attacking
+
+30m: [beach 02](https://github.com/nvitas/beach-vball/blob/master/02.md)
+30m: Serving angles, attacking angle drill
+30m: attacking technique w/ effective angles + attacking on 2
+1hr: games
+
+Present Tues:  TD, TW, TK, Liam, Mark, Chris, Cayley (8)
+
+## <a name="07/08"></a> Tuesday July 8 (attacking angles)
 Goal: understand effective attacking angles, attacking on 2, being aggressive on the attack and avoiding the middle of the court when attacking
 
 Technique videos:
@@ -33,7 +44,8 @@ Technique videos:
 
 1hr: games
 
-Present: Ryan, TD, TW, TK, Liam, Chris, Cayley (7)
+Present Tues: Ryan, TD, TW, TK, Liam, Griff, Braeden (7)
+Present Thurs: Ryan, TD, TW, TK, Liam, Chris, Griff, Braeden (7)
 
 ## <a name="hamilton-tournament"></a> Sat/Sun July 6/7 - U18/U16 Tournaments in Hamilton
 ###Positives from the tournament
