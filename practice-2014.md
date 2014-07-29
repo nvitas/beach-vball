@@ -4,7 +4,8 @@
 
 # Practice Plans (Summer 2014)
 
-* [Tue July 15/10 (attacking on 2 + attack/serve angles)](#07/15)
+* [Tue July 29 (ball control / setting)](#07/29)
+* [Tue July 15/17 (attacking on 2 + attack/serve angles)](#07/15)
 * [Tue/Thu July 8/10 (attacking angles)](#07/08)
 * [Sat/Sun July 6/7 - U18/U16 Tournaments in Hamilton](#hamilton-tournament)
 * [Friday July 4 (ball control)](#07/04)
@@ -12,12 +13,25 @@
 * [Thursday June 26 (setting)](#06/26)
  
 
-## <a name="07/04"></a> Tuesday July 15 (serving/attacking angles)
+## <a name="07/29"></a> Tuesday July 29 (ball control / setting)
+
+* 30m: [beach 02](https://github.com/nvitas/beach-vball/blob/master/02.md)
+
+* 1hr:
+1. 1.8	PASS TOMAHAWK TURN AND DIG 		(2s)	[https://www.youtube.com/watch?v=ghy1VujmQ-8](https://www.youtube.com/watch?v=ghy1VujmQ-8)
+2. 4.3	HIGH REP SETTING FOR LARGE GROUPS	[https://www.youtube.com/watch?v=uPZTuzhnQrM](https://www.youtube.com/watch?v=uPZTuzhnQrM) 	
+3. 4.4	HIGH REP SETTING - TRIANGLE	        [https://www.youtube.com/watch?v=diMzC6yQtF0](https://www.youtube.com/watch?v=diMzC6yQtF0)
+
+* 1hr: games
+
+Present Tues:  TW, TK, Liam, Mark, Chris, Cayley, Luka (7)
+
+## <a name="07/15"></a> Tues/thurs July 15/17 (serving/attacking angles)
 Goal: understand effective attacking angles, attacking on 2, being aggressive on the attack and avoiding the middle of the court when attacking
 
 Technical: 
-- [angles used when serving](https://github.com/nvitas/beach-vball/blob/master/img/serving-angles.JPG)
-- [angles used when attacking](https://github.com/nvitas/beach-vball/blob/master/img/attacking-angles.JPG)
+* [angles used when serving](https://github.com/nvitas/beach-vball/blob/master/img/serving-angles.JPG)
+* [angles used when attacking](https://github.com/nvitas/beach-vball/blob/master/img/attacking-angles.JPG)
 
 * 15m: [beach 02](https://github.com/nvitas/beach-vball/blob/master/02.md)
 * 15m: [Serving angles](https://github.com/nvitas/beach-vball/blob/master/img/serve-angle-drill.JPG)
